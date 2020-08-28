@@ -1,0 +1,1 @@
+Assesement sample for Java
